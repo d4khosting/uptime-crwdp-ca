@@ -5,6 +5,7 @@ repo: uptime-crwdp-ca # The name of this repository
 sites:
   - name: D4K Hosting Server
     url: https://www.d4khosting.ca
+    slug: d4k-hosting-server
     icon: https://www.d4khosting.ca/favicon.ico
   - name: CRWDP Website
     url: https://www.crwdp.ca
