@@ -1,23 +1,5 @@
 [
   {
-    "name": "D4KHostingServer",
-    "url": "https://www.d4khosting.ca",
-    "icon": "https://icons.duckduckgo.com/ip3/www.d4khosting.ca.ico",
-    "slug": "d4-k-hosting-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 335,
-    "timeWeek": 335,
-    "timeMonth": 335,
-    "timeYear": 335,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "CRWDP Website",
     "url": "https://www.crwdp.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.crwdp.ca.ico",
@@ -28,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 410,
-    "timeDay": 410,
-    "timeWeek": 410,
-    "timeMonth": 410,
-    "timeYear": 410,
+    "time": 382,
+    "timeDay": 382,
+    "timeWeek": 382,
+    "timeMonth": 382,
+    "timeYear": 382,
     "dailyMinutesDown": {}
   }
 ]
