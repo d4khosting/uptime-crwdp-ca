@@ -25,7 +25,7 @@ status-website:
       href: https://d4khosting.github.io/uptime-assets/css/d4k-status.css
   name: CRWDP Uptime Status
   introTitle: "**Uptime Status for CRWDP Website**"
-  introMessage: Real-time status and historical uptime records for the CRWDP website and the D4K Web Hosting Server. If the CRWDP website is down while the D4K Web Hosting Server is up, please log in to your Control Panel and review your files and settings before contacting D4K Hosting. If both sites are down, then check the [D4K&nbsp;Hosting&nbsp;Status](https://www.d4kstatus.net/) page for updates.
+  introMessage: Real-time status and historical uptime records for the CRWDP website and the D4K Web Hosting Server. If the CRWDP website is down while the D4K Web Hosting Server is up, please log in to your Control Panel and review your files and settings before contacting D4K Hosting. If both sites are down, then check the [D4K Hosting Status](https://www.d4kstatus.net/) page for updates.
   metaTags:
     - name: "robots"
       content: "noindex"
