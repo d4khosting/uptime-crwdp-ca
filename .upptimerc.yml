@@ -1,32 +1,31 @@
-# Change these first
-owner: d4khosting # Your GitHub organization or username, where this repository lives
-repo: uptime-crwdp-ca # The name of this repository
+owner: d4khosting 
+repo: uptime-crwdp-ca 
 
 sites:
-  - name: D4K Hosting Server
-    url: https://www.d4khosting.ca
-    slug: d4k-hosting-server
-    icon: https://www.d4khosting.ca/favicon.ico
   - name: CRWDP Website
     url: https://www.crwdp.ca
+  - name: D4K Hosting Server
+    url: https://vps.d4kservers.net
+    slug: d4k-hosting-server
+    icon: https://d4khosting.github.io/uptime-assets/images/d4k-hosting-favicon.svg
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: crwdp.d4kstatus.net
-  # baseUrl: /uptime-crwdp-ca
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  favicon: https://d4khosting.github.io/uptime-assets/images/d4k-hosting-favicon-192x192.png
+  faviconSvg: https://d4khosting.github.io/uptime-assets/images/d4k-hosting-favicon.svg
+  logoUrl: https://d4khosting.github.io/uptime-assets/images/d4k-hosting-logo-2023.svg
+  links:
+    - rel: preconnect
+      href: https://fonts.googleapis.com
+    - rel: preconnect
+      href: https://fonts.gstatic.com
+    - rel: stylesheet
+      href: https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap
+    - rel: stylesheet
+      href: https://d4khosting.github.io/uptime-assets/css/d4k-status.css
   name: CRWDP Uptime Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Uptime Status for CRWDP Website**"
+  introMessage: Real-time status and historical uptime records for the CRWDP website and the D4K Web Hosting Server. If the CRWDP website is down while the D4K Web Hosting Server is up, please log in to your Control Panel and review your files and settings before contacting D4K Hosting. If both sites are down, then check the [D4K Hosting Status](https://www.d4kstatus.net/) page for updates.
   metaTags:
-      - name: "robots"
-        content: "noindex"
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - name: "robots"
+      content: "noindex"
