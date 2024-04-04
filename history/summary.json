@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 594,
-    "timeDay": 290,
-    "timeWeek": 447,
-    "timeMonth": 574,
-    "timeYear": 594,
+    "time": 592,
+    "timeDay": 320,
+    "timeWeek": 382,
+    "timeMonth": 562,
+    "timeYear": 592,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://d4khosting.github.io/uptime-assets/images/d4k-hosting-favicon.svg",
     "slug": "d4k-hosting-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.32%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.62%",
+    "uptimeMonth": "96.69%",
+    "uptimeYear": "99.32%",
     "time": 259,
-    "timeDay": 167,
-    "timeWeek": 262,
-    "timeMonth": 282,
+    "timeDay": 0,
+    "timeWeek": 235,
+    "timeMonth": 278,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2024-04-03": 8
+      "2024-04-04": 53,
+      "2024-04-03": 1397
     }
   }
 ]
