@@ -2,7 +2,7 @@
   {
     "name": "CRWDP Website",
     "url": "https://www.crwdp.ca",
-    "icon": "https://icons.duckduckgo.com/ip3/www.crwdp.ca.ico",
+    "icon": "https://d4khosting.github.io/uptime-assets/images/d4k-hosting-favicon.svg",
     "slug": "crwdp-website",
     "status": "up",
     "uptime": "100.00%",
@@ -10,32 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 644,
-    "timeWeek": 430,
-    "timeMonth": 574,
-    "timeYear": 591,
+    "time": 600,
+    "timeDay": 1373,
+    "timeWeek": 639,
+    "timeMonth": 624,
+    "timeYear": 600,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "D4K Hosting Server",
-    "url": "https://vps.d4kservers.net",
-    "icon": "https://d4khosting.github.io/uptime-assets/images/d4k-hosting-favicon.svg",
-    "slug": "d4k-hosting-server",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "75.56%",
-    "uptimeMonth": "94.38%",
-    "uptimeYear": "98.86%",
-    "time": 260,
-    "timeDay": 415,
-    "timeWeek": 288,
-    "timeMonth": 290,
-    "timeYear": 260,
-    "dailyMinutesDown": {
-      "2024-04-04": 1066,
-      "2024-04-03": 1397
-    }
   }
 ]
