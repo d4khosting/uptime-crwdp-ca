@@ -4,19 +4,19 @@
     "url": "https://www.crwdp.ca",
     "icon": "https://d4khosting.github.io/uptime-assets/images/d4k-hosting-favicon.svg",
     "slug": "crwdp-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 0,
-    "timeWeek": 625,
-    "timeMonth": 552,
-    "timeYear": 564,
+    "time": 560,
+    "timeDay": 1240,
+    "timeWeek": 713,
+    "timeMonth": 575,
+    "timeYear": 566,
     "dailyMinutesDown": {
-      "2025-12-28": 0
+      "2025-12-28": 11
     }
   }
 ]
