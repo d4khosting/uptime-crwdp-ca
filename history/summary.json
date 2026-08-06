@@ -6,15 +6,15 @@
     "slug": "crwdp-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "88.67%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.38%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
     "time": 596,
-    "timeDay": 714,
-    "timeWeek": 584,
-    "timeMonth": 572,
-    "timeYear": 619,
+    "timeDay": 402,
+    "timeWeek": 449,
+    "timeMonth": 564,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2026-08-04": 163
     }
